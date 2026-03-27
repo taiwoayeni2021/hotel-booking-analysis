@@ -1,0 +1,57 @@
+# 📊 Hotel Revenue & Booking Performance Analysis
+
+## 📌 Project Overview
+This project analyzes hotel booking data to uncover insights into revenue performance, customer behavior, and cancellation trends.
+
+The analysis was conducted using:
+- Excel (Data Cleaning & Preparation)
+- SQL (Data Analysis)
+- Power BI (Dashboard & Visualization)
+
+---
+
+## 🎯 Objectives
+- Analyze booking trends over time
+- Identify top revenue-generating segments
+- Evaluate cancellation patterns
+- Provide business insights for decision-making
+
+---
+
+## 📊 Key Metrics
+- Total Bookings: 500
+- Total Revenue: $417,000
+- Average ADR: $175
+- Cancellation Rate: 32%
+
+---
+
+## 🔍 Key Insights
+- January recorded the highest revenue, indicating strong start-of-year demand.
+- Corporate segment generated the highest revenue with relatively lower cancellation risk.
+- Weekday bookings are higher than weekends, suggesting business travel demand.
+- Online segment shows the highest cancellation rate, indicating potential revenue leakage.
+
+---
+
+## 🛠️ Tools Used
+- Excel (Power Query)
+- SQL (PostgreSQL)
+- Power BI
+
+---
+
+## 📈 Dashboard
+![Dashboard](images/hotel_dashboard.png)
+
+---
+
+## 🧠 Business Recommendations
+- Implement stricter policies for high-cancellation segments (e.g., Online bookings)
+- Focus marketing efforts on high-value segments like Corporate clients
+- Optimize pricing strategy based on seasonal demand trends
+
+---
+
+## 🚀 Author
+Taiwo Ayeni
